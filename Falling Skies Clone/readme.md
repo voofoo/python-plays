@@ -1,3 +1,7 @@
-TODO - borders
-TODO - add a way to end the game
-TODO - make a banner or section for scoreboard
+TODO
+---
+borders
+
+add a way to end the game
+
+make a banner or section for scoreboard
